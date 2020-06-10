@@ -2,3 +2,7 @@ In order for the application to work, it will ask for user input that should be 
   1 Worded City + State -----> "<City>,<State>"                    IE: "Chicago,Illinois"
   
   2 Worded City + State -----> "<CityPart1 CityPart2>,<State>" --- IE: "San Diego,California"
+
+
+One benefit too is that if you search the API link in your browser, you can actually see the format of the JSON file. If the user wants to
+incorporate more information to be given to display, the user can parse and grab from the JSON category of interest.
